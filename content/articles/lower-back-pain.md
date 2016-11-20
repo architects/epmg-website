@@ -1,0 +1,17 @@
+# Lower Back Pain
+
+Second only to the common cold, low back pain is the most common reason to visit the doctor. Every year, a person’s chance of suffering from low back pain is 20 percent.  In addition, low back pain occurs 85 percent of all people at some point during their lifetime.
+
+The U.S. alone spends an estimated 40 billion dollars a year for doctor visits and treatment for low back pain. This includes prescription medications, physical therapy, spinal interventions, and spinal surgery. This rivals the medical costs of heart disease, stroke, and cancer. It is no secret that United States healthcare is the most expensive in the world.
+
+Risk factors associated with low back pain include age, smoking, gender, and obesity.  Job environment is also associated with increased risk for injuries such as heavy physical labor, repetitive work, and frequent bending and twisting. Moreover, a person in the service industry is two and a half times more likely to be injured than managers and professionals.
+
+Lumbar degenerative disk disease is a common cause of low back pain. This process is caused by everyday stress we put on our backs. Lifting, bending, and twisting are perhaps the greatest stresses we put on our backs everyday.  Over time, there is dehydration of the disk and a loss of elastic properties. Over time this causes a loss in shock absorption.  A person may lose an inch in height in his 60s when compared to his 20s. As a disk loses its height, the exiting nerve roots may become pinched and compressed.
+
+Sciatica or radiating pain is usually pain or tingling sensation starting in the lower back and often times traveling past the knee. The most common cause of radiating low back pain is a disk herniation. The lifetime risk of developing a disk herniation is 3 percent. A disk herniation can cause both a chemical inflammation and a mechanical compression on the nerve roots.
+
+Another cause of low back pain is spinal stenosis, which is defined by a narrowing of the bony spinal canal. Possible causes include bone spurs, disk bulges/herniations, arthritic facet joints, and/or shifts of the vertebral bodies (spondylolisthesis).  90% of pinched nerves in the lower back occur at the L5 and S1 levels.
+
+Additionally, low back pain can also be caused by arthritis involving the lumbar facets. Pain stemming from these joints is estimated to be the cause of chronic low back pain 25 percent of the time.  The lumbar facet joints are similar in form and function to your hip and knee joint, adding flexibility and stability to your spine. However, over time these facet joints can develop bone spurs, inflammation, swelling, and pain.
+
+The first step towards your treatment plan includes a physician evaluation involving a history and physical examination. The rehabilitation of patients with low back pain and/or sciatica pain should begin early. This process is important to prevent chronic pain, promote healing of the body, and to prevent further injuries. The physicians at Illinois Pain Institute recommend a physician evaluation if your back pain is not improved after 2 weeks.Treatment of lumbar degenerative disk disease should focus on the precise diagnosis and treatment of the painful area.  The physicians at Illinois Pain Institute specialize in diagnosis and treatment of disk disease and minimally invasive interventional techniques to treat the source of the problem in the neck or low back.

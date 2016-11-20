@@ -1,0 +1,26 @@
+{
+  "name": "@architects/epmg-website",
+  "version": "1.0.0",
+  "description": "the website for elite pain management group",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/architects/epmg-website.git"
+  },
+  "author": "Jon Soeder <jon@chicago.com> (https://twitter.com/soederpop)",
+  "license": "SEE LICENSE IN License.md",
+  "bugs": {
+    "url": "https://github.com/architects/epmg-website/issues"
+  },
+  "homepage": "https://github.com/architects/epmg-website#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-preset-skypager": "^5.20.0",
+    "babel-runtime": "^6.18.0",
+    "core-js": "^2.4.1",
+    "skypager": "^6.0.0"
+  }
+}
